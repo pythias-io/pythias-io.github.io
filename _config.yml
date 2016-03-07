@@ -1,0 +1,32 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: http://pythias.io
+title: Pythias
+email: info@pythias.io
+author: Andrew Kamau
+description: > # "Write an awesome description for your new site here. 
+  pythias.io
+copyright: 'Copyright &copy; 2016 Pythias. All Rights Reserved.'
+credits: ''
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  - title: twitter
+    url: https://twitter.com/pythias_io
+  - title: github
+    url: https://github.com/pythias-io
+  - title: email
+    url: mailto:info@pythias.io

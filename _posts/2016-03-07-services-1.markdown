@@ -1,0 +1,8 @@
+---
+layout: default
+img: dashb.png
+category: Services
+title: Sentiment Analysis
+description: |
+---
+  Visualize human conversation on mobile, web, and social media. Get insights into what people are saying about your product / service in one glance - without having to sift through hundreds of comments and messages.
