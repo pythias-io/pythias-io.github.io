@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+	{% include head.html %}
+
+	<body>
+        {% include header.html %}
+        <section id="page" class="container content-section-a">
+            <div class="row">
+              <div class="col-lg-8 col-lg-offset-2">
+                <h1></h1>
+                <div class="lead">
+                  {{ content }}
+                </div>
+              </div>
+                {% include im_content.html %}
+            </div>
+        </section>
+		{% include contact.html %}
+		{% include footer.html %}
+		{% include js.html %}
+	</body>
+</html>

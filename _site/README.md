@@ -1,1 +1,1 @@
-# pythias-io.github.io
+# pythias.io

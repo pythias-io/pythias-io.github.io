@@ -2,14 +2,16 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://pythias.io
 title: Pythias
-email: info@pythias.io
+email: engineering@pythias.tech
 author: Andrew Kamau
 description: > # "Write an awesome description for your new site here. 
   pythias.io
 copyright: 'Copyright &copy; 2016 Pythias. All Rights Reserved.'
 credits: ''
+
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://pythias.io/"
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -17,7 +19,6 @@ credits: ''
 
 # Build settings
 markdown: kramdown
-permalink: pretty
 
 # ----------------------- #
 #   3rd Party Settings    #
