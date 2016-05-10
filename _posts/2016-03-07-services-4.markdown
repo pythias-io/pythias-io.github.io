@@ -1,0 +1,13 @@
+---
+layout: default
+img: coffee.jpg 
+category: Services
+title: Pythias Labs
+description: |
+---
+  A showcase of the underlying Pythias technology.
+
+  [Pythias-ImageMind]({{  site.baseurl }}/image-mind):  analyses your photos and tells you something about them.
+  <br>
+  <br>
+  [Pythias-QuickSearch]({{ site.baseurl }}/quicksearch):  allows you to make web queries when offline.
