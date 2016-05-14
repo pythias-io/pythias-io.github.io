@@ -183,3 +183,10 @@ p.copyright {
     margin: 15px 0 0;
     text-align: center;
 }
+p.footmenu {
+    font-size: 18px;
+
+}
+a.footmenu {
+    color: #ffffff;
+}
